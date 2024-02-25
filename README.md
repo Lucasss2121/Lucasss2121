@@ -5,7 +5,7 @@
 
 - 💬 Preguntame sobre **JavaScript, HTML y CSS**
 
-- 📫 Como contactarme **lucasgimenz2121@gmail.com**
+- 📫 Como contactarme **lucasgimenez2121@gmail.com**
 
 <h3 align="left">Contactate conmigo:</h3>
 <p align="left">
