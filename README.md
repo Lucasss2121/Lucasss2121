@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Lucas Gimenez</h1>
 <h3 align="center">Un apasionado desarrollador frontend de Argentina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasss2121&label=Profile%20views&color=0e75b6&style=flat" alt="lucasss2121" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasss2121" alt="lucasss2121" /></a> </p>
 
 - 🌱 Actualmente estoy estudiando **Desarrollo de Software**
 
