@@ -7,6 +7,8 @@
 
 - 📫 Como contactarme **lucasgimenez21@outlook.es**
 
+- 📄 Conoce mi experiencia [https://drive.google.com/file/d/17_LCEfOhtMpMzF5sqWBEeLvZP6XNeWdi/view?usp=sharing](https://drive.google.com/file/d/17_LCEfOhtMpMzF5sqWBEeLvZP6XNeWdi/view?usp=sharing)
+
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lucas-gimenez2112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-gimenez2112" height="30" width="40" /></a>
